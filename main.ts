@@ -31,6 +31,6 @@ let y = 0
 pins.servoWritePin(AnalogPin.P0, 90)
 pins.servoWritePin(AnalogPin.P1, 90)
 pins.servoWritePin(AnalogPin.P2, 90)
-pins.servoWritePin(AnalogPin.P2, 90)
+pins.servoWritePin(AnalogPin.P3, 90)
 y = 90
 x = 90
